@@ -82,7 +82,7 @@ th,td{
 .bottom-right {font-size:2.33em; color: #fafafa; line-height: 1.5em; width: auto; height: 150px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
-.title1{color: #b2132e; text-shadow: 1px 1px 3px #c0c0c0;} 
+.title1{color: #b2132e; text-shadow: 1px 1px 3px #c0c0c0;font-size: 2em;} 
 .title2{color: #52739e; text-shadow: 1px 1px 3px #c0c0c0;}
 .year{color: #505050; font-size:0.67em; font-weight: lighter;}
 
@@ -96,8 +96,8 @@ td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:midd
 td.sponsor img{width: 100%}
 
 /* Organizers */
-table.organizers{margin: 12px auto 24px 36px; width:540px; border-spacing:0em;}
-td.organizer{font-size:1em; white-space:nowrap; width:33%; text-align:middle; vertical-align:middle; padding: 12px auto 24px auto;}
+table.organizers{margin: 12px auto 24px 36px; width:250px; border-spacing:0em;}
+td.organizer{font-size:1em; white-space:nowrap; width:50%; text-align:middle; vertical-align:middle; padding: 12px auto 24px auto;}
 
 /* The Table on the Program Page */
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
